@@ -1,1 +1,1 @@
-A website about the verbal game of nim.
+A website about the verbal game of nim game.
